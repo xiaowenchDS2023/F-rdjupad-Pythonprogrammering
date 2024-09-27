@@ -1,0 +1,213 @@
+2024-09-26 19:20:49,291 - ERROR - An error occurred: division by zero
+2024-09-26 19:23:04,729 - ERROR - An error occurred: division by zero
+2024-09-26 19:48:47,624 - ERROR - An error occurred while processing data: name 'pd' is not defined
+2024-09-26 19:50:42,359 - ERROR - An error occurred while processing data: agg function failed [how->mean,dtype->object]
+2024-09-26 19:55:03,993 - ERROR - An error occurred while processing data: agg function failed [how->mean,dtype->object]
+2024-09-26 19:58:35,884 - ERROR - An error occurred while processing data: agg function failed [how->mean,dtype->object]
+2024-09-26 20:50:39,738 - ERROR - An error occurred: division by zero
+2024-09-26 21:01:34,398 - ERROR - An error occurred: division by zero
+2024-09-26 21:19:30,760 - ERROR - An error occurred: division by zero
+2024-09-26 21:39:45,280 - ERROR - An error occurred: division by zero
+2024-09-26 21:41:52,062 - ERROR - An error occurred: division by zero
+2024-09-26 23:49:14,729 - ERROR - An error occurred: division by zero
+2024-09-27 00:06:20,015 - ERROR - An error occurred: division by zero
+2024-09-27 00:23:24,200 - ERROR - An error occurred: division by zero
+2024-09-27 09:19:45,657 - ERROR - An error occurred: division by zero
+2024-09-27 09:32:46,531 - ERROR - An error occurred: Cannot save file into a non-existent directory: 'D:\Lenovo lektions backup files 2024-07\EC-utbildning\x824-V.35 F\xf6rdjupad Pythonprogrammering\Kunskapskontroll 2'
+2024-09-27 09:33:58,751 - ERROR - An error occurred: [Errno 2] No such file or directory: 'D:\\Lenovo lektions backup files 2024-07\\EC-utbildning\\2024-V.35 F\xf6rdjupad Pythonprogrammering\\test_data.csv'
+2024-09-27 09:36:34,007 - ERROR - An error occurred: [Errno 2] No such file or directory: 'D:\\Lenovo lektions backup files 2024-07\\EC-utbildning\\2024-V.35 F\xf6rdjupad Pythonprogrammering\\test_data.csv'
+2024-09-27 09:37:27,086 - ERROR - An error occurred: [Errno 2] No such file or directory: 'D:\\Lenovo lektions backup files 2024-07\\EC-utbildning\\2024-V.35 F\xf6rdjupad Pythonprogrammering\\test_data.csv'
+2024-09-27 09:40:03,158 - ERROR - File not found: [Errno 2] No such file or directory: 'D:\\Lenovo lektions backup files 2024-07\\EC-utbildning\\2024-V.35 Fordjupad Pythonprogrammering\\test_data.csv'
+2024-09-27 12:28:26,402 - ERROR - File not found: [Errno 2] No such file or directory: 'D:\\Lenovo lektions backup files 2024-07\\EC-utbildning\\2024-V.35 Fordjupad Pythonprogrammering\\test_data.csv'
+2024-09-27 14:45:30,474 - ERROR - File not found: [Errno 2] No such file or directory: 'D:\\Lenovo lektions backup files 2024-07\\EC-utbildning\\2024-V.35 Fordjupad Pythonprogrammering\\test_data.csv'
+2024-09-27 15:07:52,533 - DEBUG - Changed to directory: D:\Lenovo lektions backup files 2024-07\EC-utbildning\2024-V.35 Fordjupad Pythonprogrammering\Kunskapskontroll 2
+2024-09-27 15:07:52,533 - DEBUG - Python script started...
+2024-09-27 15:07:52,533 - DEBUG - Step 1: Reading the CSV file...
+2024-09-27 15:07:52,581 - DEBUG - Data loaded: 20124 rows, 7 columns
+2024-09-27 15:07:52,581 - DEBUG - Step 2: Converting 'year' to datetime...
+2024-09-27 15:07:52,581 - DEBUG - Step 3: Resampling data by quarter...
+2024-09-27 15:07:52,714 - DEBUG - Quarterly data: 49 rows, 7 columns
+2024-09-27 15:07:52,714 - DEBUG - Saving results to D:\Lenovo lektions backup files 2024-07\EC-utbildning\2024-V.35 Fordjupad Pythonprogrammering\quarterly_summary_20240927_150752.csv...
+2024-09-27 15:07:52,756 - DEBUG - All steps completed successfully!
+2024-09-27 16:18:42,220 - DEBUG - Changed to directory: D:\Lenovo lektions backup files 2024-07\EC-utbildning\2024-V.35 Fordjupad Pythonprogrammering\Kunskapskontroll 2
+2024-09-27 16:18:42,220 - DEBUG - Python script started...
+2024-09-27 16:18:42,220 - DEBUG - Step 1: Reading the CSV file...
+2024-09-27 16:18:42,251 - DEBUG - Data loaded: 20124 rows, 7 columns
+2024-09-27 16:18:42,251 - DEBUG - Step 2: Converting 'year' to datetime...
+2024-09-27 16:18:42,251 - DEBUG - Step 3: Resampling data by quarter...
+2024-09-27 16:18:42,305 - DEBUG - Quarterly data: 49 rows, 7 columns
+2024-09-27 16:18:42,305 - DEBUG - Saving results to D:\Lenovo lektions backup files 2024-07\EC-utbildning\2024-V.35 Fordjupad Pythonprogrammering\quarterly_summary_20240927_161842.csv...
+2024-09-27 16:18:42,330 - DEBUG - All steps completed successfully!
+2024-09-27 16:20:24,673 - DEBUG - Changed to directory: D:\Lenovo lektions backup files 2024-07\EC-utbildning\2024-V.35 Fordjupad Pythonprogrammering\Kunskapskontroll 2
+2024-09-27 16:20:24,673 - DEBUG - Python script started...
+2024-09-27 16:20:24,674 - DEBUG - Step 1: Reading the CSV file...
+2024-09-27 16:20:24,683 - DEBUG - Data loaded: 20124 rows, 7 columns
+2024-09-27 16:20:24,683 - DEBUG - Step 2: Converting 'year' to datetime...
+2024-09-27 16:20:24,683 - DEBUG - Step 3: Resampling data by quarter...
+2024-09-27 16:20:24,731 - DEBUG - Quarterly data: 49 rows, 7 columns
+2024-09-27 16:20:24,731 - DEBUG - Saving results to D:\Lenovo lektions backup files 2024-07\EC-utbildning\2024-V.35 Fordjupad Pythonprogrammering\Kunskapskontroll 2\quarterly_summary_20240927_162024.csv...
+2024-09-27 16:20:24,748 - DEBUG - All steps completed successfully!
+2024-09-27 16:24:11,953 - DEBUG - Changed to directory: D:\Lenovo lektions backup files 2024-07\EC-utbildning\2024-V.35 Fordjupad Pythonprogrammering\Kunskapskontroll 2
+2024-09-27 16:24:11,953 - DEBUG - Python script started...
+2024-09-27 16:24:11,953 - DEBUG - Step 1: Reading the CSV file...
+2024-09-27 16:24:11,985 - DEBUG - Data loaded: 20124 rows, 7 columns
+2024-09-27 16:24:11,985 - DEBUG - Step 2: Converting 'year' to datetime...
+2024-09-27 16:24:11,985 - DEBUG - Step 3: Resampling data by quarter...
+2024-09-27 16:24:12,032 - DEBUG - Quarterly data: 49 rows, 7 columns
+2024-09-27 16:24:12,032 - DEBUG - Saving results to D:\Lenovo lektions backup files 2024-07\EC-utbildning\2024-V.35 Fordjupad Pythonprogrammering\Kunskapskontroll 2\quarterly_summary_20240927_162412.csv...
+2024-09-27 16:24:12,048 - DEBUG - All steps completed successfully!
+2024-09-27 16:25:40,923 - INFO - Task started
+2024-09-27 16:25:40,923 - INFO - Task executed successfully at 2024-09-27 16:25:40.923326
+2024-09-27 16:25:44,430 - ERROR - An error occurred: division by zero
+2024-09-27 16:32:43,616 - INFO - Task started
+2024-09-27 16:32:43,616 - INFO - Task executed successfully at 2024-09-27 16:32:43.616064
+2024-09-27 16:32:43,616 - ERROR - An error occurred: division by zero
+2024-09-27 16:32:43,969 - INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2024-09-27 16:32:43,969 - INFO - NumExpr defaulting to 8 threads.
+2024-09-27 16:34:19,180 - INFO - Task started
+2024-09-27 16:34:19,180 - INFO - Task executed successfully at 2024-09-27 16:34:19.180694
+2024-09-27 16:34:19,180 - ERROR - An error occurred: division by zero
+2024-09-27 16:34:19,543 - INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2024-09-27 16:34:19,543 - INFO - NumExpr defaulting to 8 threads.
+2024-09-27 16:41:19,704 - INFO - Task started
+2024-09-27 16:41:19,705 - INFO - Task executed successfully at 2024-09-27 16:41:19.704177
+2024-09-27 16:41:20,354 - ERROR - An error occurred: division by zero
+2024-09-27 16:44:20,847 - INFO - Task started
+2024-09-27 16:44:20,847 - INFO - Task executed successfully at 2024-09-27 16:44:20.847758
+2024-09-27 16:44:20,847 - ERROR - An error occurred: division by zero
+2024-09-27 16:44:21,206 - INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2024-09-27 16:44:21,206 - INFO - NumExpr defaulting to 8 threads.
+2024-09-27 16:45:42,550 - INFO - Task started
+2024-09-27 16:45:42,550 - INFO - Task executed successfully at 2024-09-27 16:45:42.550775
+2024-09-27 16:45:42,550 - ERROR - An error occurred: division by zero
+2024-09-27 16:45:42,928 - INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2024-09-27 16:45:42,928 - INFO - NumExpr defaulting to 8 threads.
+2024-09-27 16:46:37,992 - INFO - Task started
+2024-09-27 16:46:37,992 - INFO - Task executed successfully at 2024-09-27 16:46:37.992664
+2024-09-27 16:46:37,993 - ERROR - An error occurred: division by zero
+2024-09-27 16:46:38,333 - INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2024-09-27 16:46:38,333 - INFO - NumExpr defaulting to 8 threads.
+2024-09-27 16:48:51,275 - INFO - Task started
+2024-09-27 16:48:51,275 - INFO - Task executed successfully at 2024-09-27 16:48:51.275048
+2024-09-27 16:48:51,275 - ERROR - An error occurred: division by zero
+2024-09-27 16:48:51,627 - INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2024-09-27 16:48:51,627 - INFO - NumExpr defaulting to 8 threads.
+2024-09-27 16:49:23,563 - DEBUG - Changed to directory: D:\Lenovo lektions backup files 2024-07\EC-utbildning\2024-V.35 Fordjupad Pythonprogrammering\Kunskapskontroll 2
+2024-09-27 16:49:23,563 - DEBUG - Python script started...
+2024-09-27 16:49:23,563 - DEBUG - Step 1: Reading the CSV file...
+2024-09-27 16:49:23,594 - DEBUG - Data loaded: 20124 rows, 7 columns
+2024-09-27 16:49:23,594 - DEBUG - Step 2: Converting 'year' to datetime...
+2024-09-27 16:49:23,594 - DEBUG - Step 3: Resampling data by quarter...
+2024-09-27 16:49:23,642 - DEBUG - Quarterly data: 49 rows, 7 columns
+2024-09-27 16:49:23,642 - DEBUG - Saving results to D:\Lenovo lektions backup files 2024-07\EC-utbildning\2024-V.35 Fordjupad Pythonprogrammering\Kunskapskontroll 2\quarterly_summary_20240927_164923.csv...
+2024-09-27 16:49:23,657 - DEBUG - All steps completed successfully!
+2024-09-27 16:50:12,684 - INFO - Task started
+2024-09-27 16:50:12,684 - INFO - Task executed successfully at 2024-09-27 16:50:12.684781
+2024-09-27 16:50:12,684 - ERROR - An error occurred: division by zero
+2024-09-27 16:50:13,032 - INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2024-09-27 16:50:13,032 - INFO - NumExpr defaulting to 8 threads.
+2024-09-27 16:51:00,596 - DEBUG - Changed to directory: D:\Lenovo lektions backup files 2024-07\EC-utbildning\2024-V.35 Fordjupad Pythonprogrammering\Kunskapskontroll 2
+2024-09-27 16:51:00,596 - DEBUG - Python script started...
+2024-09-27 16:51:00,596 - DEBUG - Step 1: Reading the CSV file...
+2024-09-27 16:51:00,625 - DEBUG - Data loaded: 20124 rows, 7 columns
+2024-09-27 16:51:00,625 - DEBUG - Step 2: Converting 'year' to datetime...
+2024-09-27 16:51:00,625 - DEBUG - Step 3: Resampling data by quarter...
+2024-09-27 16:51:00,673 - DEBUG - Quarterly data: 49 rows, 7 columns
+2024-09-27 16:51:00,673 - DEBUG - Saving results to D:\Lenovo lektions backup files 2024-07\EC-utbildning\2024-V.35 Fordjupad Pythonprogrammering\Kunskapskontroll 2\quarterly_summary_20240927_165100.csv...
+2024-09-27 16:51:00,688 - DEBUG - All steps completed successfully!
+2024-09-27 16:55:29,977 - INFO - Task started
+2024-09-27 16:55:29,977 - INFO - Task executed successfully at 2024-09-27 16:55:29.977478
+2024-09-27 16:55:29,977 - ERROR - An error occurred: division by zero
+2024-09-27 16:55:30,340 - INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2024-09-27 16:55:30,340 - INFO - NumExpr defaulting to 8 threads.
+2024-09-27 16:58:32,961 - INFO - Task started
+2024-09-27 16:58:32,961 - INFO - Task executed successfully at 2024-09-27 16:58:32.961164
+2024-09-27 16:58:32,961 - ERROR - An error occurred: division by zero
+2024-09-27 16:58:33,306 - INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2024-09-27 16:58:33,306 - INFO - NumExpr defaulting to 8 threads.
+2024-09-27 17:00:09,385 - INFO - Task started
+2024-09-27 17:00:09,385 - INFO - Task executed successfully at 2024-09-27 17:00:09.385693
+2024-09-27 17:00:09,385 - ERROR - An error occurred: division by zero
+2024-09-27 17:00:09,749 - INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2024-09-27 17:00:09,749 - INFO - NumExpr defaulting to 8 threads.
+2024-09-27 17:01:37,270 - DEBUG - Changed to directory: D:\Lenovo lektions backup files 2024-07\EC-utbildning\2024-V.35 Fordjupad Pythonprogrammering\Kunskapskontroll 2
+2024-09-27 17:01:37,270 - DEBUG - Python script started...
+2024-09-27 17:01:37,270 - DEBUG - Step 1: Reading the CSV file...
+2024-09-27 17:01:37,286 - DEBUG - Data loaded: 20124 rows, 7 columns
+2024-09-27 17:01:37,286 - DEBUG - Step 2: Converting 'year' to datetime...
+2024-09-27 17:01:37,286 - DEBUG - Step 3: Resampling data by quarter...
+2024-09-27 17:01:37,333 - DEBUG - Quarterly data: 49 rows, 7 columns
+2024-09-27 17:01:37,333 - DEBUG - Saving results to D:\Lenovo lektions backup files 2024-07\EC-utbildning\2024-V.35 Fordjupad Pythonprogrammering\Kunskapskontroll 2\quarterly_summary_20240927_170137.csv...
+2024-09-27 17:01:37,355 - DEBUG - All steps completed successfully!
+2024-09-27 17:01:50,046 - INFO - Task started
+2024-09-27 17:01:50,046 - INFO - Task executed successfully at 2024-09-27 17:01:50.046098
+2024-09-27 17:01:50,046 - ERROR - An error occurred: division by zero
+2024-09-27 17:01:50,395 - INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2024-09-27 17:01:50,395 - INFO - NumExpr defaulting to 8 threads.
+2024-09-27 17:08:46,219 - INFO - Task started
+2024-09-27 17:08:46,221 - INFO - Task executed successfully at 2024-09-27 17:08:46.221207
+2024-09-27 17:08:46,221 - ERROR - An error occurred: division by zero
+2024-09-27 17:08:46,579 - INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2024-09-27 17:08:46,579 - INFO - NumExpr defaulting to 8 threads.
+2024-09-27 17:13:22,952 - INFO - Task started
+2024-09-27 17:13:22,952 - INFO - Task executed successfully at 2024-09-27 17:13:22.952205
+2024-09-27 17:13:22,952 - ERROR - An error occurred: division by zero
+2024-09-27 17:13:23,296 - INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2024-09-27 17:13:23,296 - INFO - NumExpr defaulting to 8 threads.
+2024-09-27 17:16:50,916 - INFO - Task started
+2024-09-27 17:16:50,916 - INFO - Task executed successfully at 2024-09-27 17:16:50.916958
+2024-09-27 17:16:51,603 - ERROR - An error occurred: division by zero
+2024-09-27 18:02:43,669 - INFO - Task started
+2024-09-27 18:02:43,669 - INFO - Task executed successfully at 2024-09-27 18:02:43.669536
+2024-09-27 18:02:45,514 - ERROR - An error occurred: division by zero
+2024-09-27 18:18:58,232 - ERROR - An error occurred: 'Salaries and wages paid'
+2024-09-27 18:21:46,360 - ERROR - An error occurred: 'Salaries and wages paid'
+2024-09-27 18:27:40,018 - ERROR - An error occurred: 'Salaries and wages paid'
+2024-09-27 18:41:29,299 - INFO - Task started
+2024-09-27 18:41:29,300 - INFO - Task executed successfully at 2024-09-27 18:41:29.300504
+2024-09-27 18:41:32,004 - ERROR - An error occurred: division by zero
+2024-09-27 18:41:48,217 - ERROR - An error occurred: 'Salaries and wages paid'
+2024-09-27 18:43:12,123 - ERROR - An error occurred: 'Salaries and wages paid'
+2024-09-27 18:45:56,826 - INFO - Task started
+2024-09-27 18:45:56,827 - INFO - Task executed successfully at 2024-09-27 18:45:56.827768
+2024-09-27 18:45:57,668 - ERROR - An error occurred: division by zero
+2024-09-27 18:46:05,944 - ERROR - An error occurred: 'Salaries and wages paid'
+2024-09-27 18:48:18,273 - INFO - Task started
+2024-09-27 18:48:18,274 - INFO - Task executed successfully at 2024-09-27 18:48:18.274185
+2024-09-27 18:48:19,153 - ERROR - An error occurred: division by zero
+2024-09-27 18:48:25,629 - ERROR - An error occurred: 'Salaries and wages paid'
+2024-09-27 18:51:37,990 - ERROR - An error occurred: 'Salaries and wages paid'
+2024-09-27 19:01:52,287 - INFO - Task started
+2024-09-27 19:01:52,288 - INFO - Task executed successfully at 2024-09-27 19:01:52.288553
+2024-09-27 19:01:54,260 - ERROR - An error occurred: division by zero
+2024-09-27 19:02:01,942 - ERROR - An error occurred: 'Salaries and wages paid'
+2024-09-27 19:06:39,581 - INFO - Task started
+2024-09-27 19:06:39,581 - INFO - Task executed successfully at 2024-09-27 19:06:39.581013
+2024-09-27 19:06:39,581 - ERROR - An error occurred: division by zero
+2024-09-27 19:06:39,948 - INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2024-09-27 19:06:39,948 - INFO - NumExpr defaulting to 8 threads.
+2024-09-27 19:06:40,317 - ERROR - An error occurred: 'Salaries and wages paid'
+2024-09-27 19:07:41,408 - INFO - Task started
+2024-09-27 19:07:41,408 - INFO - Task executed successfully at 2024-09-27 19:07:41.408412
+2024-09-27 19:07:41,408 - ERROR - An error occurred: division by zero
+2024-09-27 19:07:41,779 - INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2024-09-27 19:07:41,779 - INFO - NumExpr defaulting to 8 threads.
+2024-09-27 19:07:42,164 - ERROR - An error occurred: 'Salaries and wages paid'
+2024-09-27 19:09:34,612 - INFO - Task started
+2024-09-27 19:09:34,612 - INFO - Task executed successfully at 2024-09-27 19:09:34.612497
+2024-09-27 19:09:34,612 - ERROR - An error occurred: division by zero
+2024-09-27 19:09:34,975 - INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2024-09-27 19:09:34,975 - INFO - NumExpr defaulting to 8 threads.
+2024-09-27 19:09:35,337 - ERROR - An error occurred: 'Salaries and wages paid'
+2024-09-27 20:06:41,833 - INFO - Task started
+2024-09-27 20:06:41,833 - INFO - Task executed successfully at 2024-09-27 20:06:41.833609
+2024-09-27 20:06:41,833 - ERROR - An error occurred: division by zero
+2024-09-27 20:06:42,252 - INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2024-09-27 20:06:42,252 - INFO - NumExpr defaulting to 8 threads.
+2024-09-27 20:06:42,624 - ERROR - An error occurred: 'Salaries and wages paid'
+2024-09-27 20:08:14,997 - INFO - Task started
+2024-09-27 20:08:14,997 - INFO - Task executed successfully at 2024-09-27 20:08:14.997538
+2024-09-27 20:08:14,997 - ERROR - An error occurred: division by zero
+2024-09-27 20:08:15,367 - INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2024-09-27 20:08:15,367 - INFO - NumExpr defaulting to 8 threads.
+2024-09-27 20:08:15,737 - ERROR - An error occurred: 'Salaries and wages paid'
